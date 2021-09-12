@@ -1,0 +1,10 @@
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\1910155_NgoPhamTuUyen_Lab02\Lab02_Demo\Lab02_Demo\bin\Debug\Lab02_Demo.exe.config
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\1910155_NgoPhamTuUyen_Lab02\Lab02_Demo\Lab02_Demo\bin\Debug\Lab02_Demo.exe
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\1910155_NgoPhamTuUyen_Lab02\Lab02_Demo\Lab02_Demo\bin\Debug\Lab02_Demo.pdb
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\1910155_NgoPhamTuUyen_Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.csproj.AssemblyReference.cache
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\1910155_NgoPhamTuUyen_Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.frmTrungTam.resources
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\1910155_NgoPhamTuUyen_Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.Properties.Resources.resources
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\1910155_NgoPhamTuUyen_Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.csproj.GenerateResource.cache
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\1910155_NgoPhamTuUyen_Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.csproj.CoreCompileInputs.cache
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\1910155_NgoPhamTuUyen_Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.exe
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\1910155_NgoPhamTuUyen_Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.pdb

@@ -1,0 +1,12 @@
+C:\Users\Admin\Downloads\LT-CSDL-master\LT-CSDL-master\Lab02_GiaoVien\Lab02_GiaoVien\bin\Debug\Lab02_GiaoVien.exe.config
+C:\Users\Admin\Downloads\LT-CSDL-master\LT-CSDL-master\Lab02_GiaoVien\Lab02_GiaoVien\bin\Debug\Lab02_GiaoVien.exe
+C:\Users\Admin\Downloads\LT-CSDL-master\LT-CSDL-master\Lab02_GiaoVien\Lab02_GiaoVien\bin\Debug\Lab02_GiaoVien.pdb
+C:\Users\Admin\Downloads\LT-CSDL-master\LT-CSDL-master\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\LT-CSDL-master\LT-CSDL-master\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.frmGiaoVien.resources
+C:\Users\Admin\Downloads\LT-CSDL-master\LT-CSDL-master\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.frmTBGiaoVien.resources
+C:\Users\Admin\Downloads\LT-CSDL-master\LT-CSDL-master\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.Properties.Resources.resources
+C:\Users\Admin\Downloads\LT-CSDL-master\LT-CSDL-master\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\LT-CSDL-master\LT-CSDL-master\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\LT-CSDL-master\LT-CSDL-master\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.exe
+C:\Users\Admin\Downloads\LT-CSDL-master\LT-CSDL-master\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.pdb
+C:\Users\Admin\Downloads\LT-CSDL-master\LT-CSDL-master\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.frmThongTinGiaoVien.resources
